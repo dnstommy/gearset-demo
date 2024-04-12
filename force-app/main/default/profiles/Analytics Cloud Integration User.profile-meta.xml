@@ -147,6 +147,11 @@
     </applicationVisibilities>
     <custom>false</custom>
     <fieldPermissions>
+        <editable>false</editable>
+        <field>Bike__c.Gears__c</field>
+        <readable>true</readable>
+    </fieldPermissions>
+    <fieldPermissions>
         <editable>true</editable>
         <field>CalcProcStepRelationship.CalcProcVersionId</field>
         <readable>true</readable>
