@@ -2998,6 +2998,11 @@
     </fieldPermissions>
     <fieldPermissions>
         <editable>true</editable>
+        <field>TestObject__c.MyNumber__c</field>
+        <readable>true</readable>
+    </fieldPermissions>
+    <fieldPermissions>
+        <editable>true</editable>
         <field>TransactionJournal.AccountingModelConfigName</field>
         <readable>true</readable>
     </fieldPermissions>
@@ -3589,6 +3594,9 @@
     </layoutAssignments>
     <layoutAssignments>
         <layout>TagCategoryAssignment-Tag Category Assignment Layout</layout>
+    </layoutAssignments>
+    <layoutAssignments>
+        <layout>TestObject__c-TestObject Layout</layout>
     </layoutAssignments>
     <layoutAssignments>
         <layout>TimePeriod-Time Period Layout</layout>
