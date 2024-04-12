@@ -781,6 +781,11 @@
         <field>Interaction.StartTime</field>
         <readable>true</readable>
     </fieldPermissions>
+    <fieldPermissions>
+        <editable>true</editable>
+        <field>TestObject__c.MyNumber__c</field>
+        <readable>true</readable>
+    </fieldPermissions>
     <layoutAssignments>
         <layout>Account-Account Layout</layout>
         <recordType>Account.Business_Account</recordType>
@@ -938,6 +943,9 @@
     </layoutAssignments>
     <layoutAssignments>
         <layout>PreliminaryApplicationRef-Preliminary Application Reference Layout</layout>
+    </layoutAssignments>
+    <layoutAssignments>
+        <layout>TestObject__c-TestObject Layout</layout>
     </layoutAssignments>
     <layoutAssignments>
         <layout>TimePeriod-Time Period Layout</layout>
