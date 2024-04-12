@@ -820,6 +820,9 @@
         <layout>AssessmentSignature-Assessment Signature Layout</layout>
     </layoutAssignments>
     <layoutAssignments>
+        <layout>Bike__c-Bike Layout</layout>
+    </layoutAssignments>
+    <layoutAssignments>
         <layout>DocumentDecisionRequirement-Document Decision Requirement Layout</layout>
     </layoutAssignments>
     <layoutAssignments>
