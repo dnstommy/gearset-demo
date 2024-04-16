@@ -20,6 +20,7 @@
             <label>Yes</label>
         </rules>
     </decisions>
+    <description>Words</description>
     <environments>Default</environments>
     <interviewLabel>DemoFlow {!$Flow.CurrentDateTime}</interviewLabel>
     <label>DemoFlow</label>
@@ -52,5 +53,5 @@
         <recordTriggerType>Create</recordTriggerType>
         <triggerType>RecordAfterSave</triggerType>
     </start>
-    <status>Draft</status>
+    <status>Active</status>
 </Flow>
