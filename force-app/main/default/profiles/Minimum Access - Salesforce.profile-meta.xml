@@ -148,6 +148,11 @@
     <custom>false</custom>
     <fieldPermissions>
         <editable>true</editable>
+        <field>Bike__c.Gears__c</field>
+        <readable>true</readable>
+    </fieldPermissions>
+    <fieldPermissions>
+        <editable>true</editable>
         <field>CalcProcStepRelationship.CalcProcVersionId</field>
         <readable>true</readable>
     </fieldPermissions>
@@ -3298,6 +3303,9 @@
     </layoutAssignments>
     <layoutAssignments>
         <layout>ActionPlnTmplItmDependency-Action Plan Template Item Dependency Layout</layout>
+    </layoutAssignments>
+    <layoutAssignments>
+        <layout>Bike__c-Bike Layout</layout>
     </layoutAssignments>
     <layoutAssignments>
         <layout>CalcProcStepRelationship-Expression Set Step Relationship Layout</layout>
